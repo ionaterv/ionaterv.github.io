@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionaterv.github.io/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/app/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/assets/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/css/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/includes/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/item/ionaterv.ionaterv
+Sitemap: https://ionaterv.github.io/src/ionaterv.ionaterv
